@@ -1,7 +1,7 @@
 # Laporan Hasil Uji - Chapter 7
 
 Nama: Shofi Salsabila
-NIM: 23367060
+NIM: 23367077
 Database: sisabaik_dev (PostgreSQL)
 
 ## Ringkasan Hasil Pengujian
